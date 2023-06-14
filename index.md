@@ -7,11 +7,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
   <link rel="preload" href="fonts/Mona-Sans.woff2" as="font" type="font/woff2" crossorigin>
-  <title>Ciao!</title>
+  <title>Enrico Cristaudo's homepage</title>
 </head>
 
 <body>
-  <h1>Hello!</h1>
+  <h1 class="title">Hi! My name is Enrico Cristaudo and I am many things...</h1>
 </body>
 
 </html>
